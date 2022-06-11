@@ -1,0 +1,5 @@
+2022-06-11:14:17:15 - elk-test-logger - ERROR - python-logstash: test logstash error message.
+2022-06-11:14:17:15 - elk-test-logger - INFO - python-logstash: test logstash info message.
+2022-06-11:14:17:15 - elk-test-logger - WARNING - python-logstash: test logstash warning message.
+2022-06-11:14:17:15 - elk-test-logger - INFO - hello elk-test-logstash
+2022-06-11:14:17:59 - elk-test-logger - INFO - hello elk-test-logstash
